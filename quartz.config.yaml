@@ -13,31 +13,31 @@ configuration:
     - templates
     - .obsidian
   theme:
-    fontOrigin: googleFonts
+    fontOrigin: local
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Recursive
+      body: Recursive
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
+        light: "#f2e5bb"
+        lightgray: "#ebdbb2"
+        gray: "#918273"
+        darkgray: "#4a4540"
+        dark: "#292929"
+        secondary: "#1396a0"
+        tertiary: "#d85f0e"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
+        light: "#1f1f1f"
+        lightgray: "#292929"
         gray: "#646464"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
+        secondary: "#1396a0"
+        tertiary: "#d85f0e"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
@@ -54,8 +54,8 @@ plugins:
     enabled: true
     options:
       theme:
-        light: github-light
-        dark: github-dark
+        light: gruvbox-light-soft
+        dark: gruvbox-dark-medium
       keepBackground: false
     order: 20
   - source: "@quartz-community/obsidian-flavored-markdown"
@@ -110,10 +110,13 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      useThemeFonts: true
+      fontOrigin: local
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: default
+      theme: shimmering-focus
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
