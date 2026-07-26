@@ -1,13 +1,13 @@
 ---
 type: moc
 tags: []
-published: {{date}}
+date: {{date}}
 publish: false
 ---
 
 # {{title}}
 
-> Filename: `MOC-{topic}.md` in `map-of-contents/`. A map of content — links to notes on this topic, each with a sentence on why it matters here. Organize by **subtheme**, not by note type. The same note can appear in multiple MOCs.
+> Main-axis MOCs: `MOC-{topic}.md` in `map-of-contents/`. Personal-interest MOCs: same filename pattern in `outros-interesses/`. English slug, Portuguese or English `title`. Link notes by **subtheme**, not by note type.
 
 ## <!-- Subtheme 1 — e.g. Language & Thought -->
 

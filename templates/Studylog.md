@@ -1,10 +1,10 @@
 ---
 type: studylog
 study_day:
-published: {{date}}
+date: {{date}}
 lang:
 tags: []
-stage: 🌱
+stage: seed
 publish: false
 ---
 

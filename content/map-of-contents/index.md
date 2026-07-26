@@ -9,7 +9,8 @@ publish: true
 
 Meta-notes that link ideas by subtheme. Each map includes commented links — not bare indexes.
 
-- [[MOC-philosophy|Philosophy]]
-- [[MOC-software-engineering|Software Engineering]]
-- [[MOC-cognitive-psychology|Cognitive Psychology]]
-- 
+- [[MOC-about-me|Sobre mim]]
+- [[MOC-computacao|Computação]]
+- [[MOC-career|Carreira]]
+- [[MOC-software-engineering|Engenharia de Software]]
+- [[MOC-ui-ux-design|UI/UX Design]]

@@ -254,13 +254,11 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - description
-        - tags
-        - aliases
-        - lang
         - type
+        - date
         - stage
-        - published
+        - lang
+        - tags
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---

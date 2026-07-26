@@ -1,9 +1,9 @@
 ---
 type: essay
+date: {{date}}
+stage: seed
 lang:
 tags: []
-stage: 🌱
-published: {{date}}
 publish: false
 ---
 
