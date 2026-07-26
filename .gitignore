@@ -1,0 +1,10 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+.DS_Store
+
+# Quartz build output
+public/
+.quartz-cache/
+node_modules/
