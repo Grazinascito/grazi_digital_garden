@@ -2,6 +2,7 @@
 type: moc
 area: cognitive-psychology
 tags: [cognitive-psychology]
+publish: true
 ---
 
 # Cognitive Psychology

@@ -2,6 +2,7 @@
 type: moc
 area: software-engineering
 tags: [software-engineering]
+publish: true
 ---
 
 # Software Engineering

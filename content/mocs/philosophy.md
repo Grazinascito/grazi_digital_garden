@@ -2,6 +2,7 @@
 type: moc
 area: philosophy
 tags: [philosophy]
+publish: true
 ---
 
 # Philosophy
