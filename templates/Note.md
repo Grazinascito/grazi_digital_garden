@@ -1,6 +1,5 @@
 ---
 type: note
-area: []
 lang:
 tags: []
 stage: 🌱

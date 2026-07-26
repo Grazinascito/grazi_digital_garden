@@ -1,1 +1,23 @@
-{}
+{
+  "userIgnoreFilters": [
+    "node_modules",
+    "public",
+    "quartz",
+    "docs",
+    ".quartz-cache",
+    ".git",
+    "package.json",
+    "package-lock.json",
+    "quartz.config",
+    "quartz.config.default",
+    "quartz.ts",
+    "tsconfig.json",
+    "globals.d.ts",
+    "index.d.ts",
+    "Dockerfile",
+    "CODE_OF_CONDUCT",
+    "LICENSE",
+    "README"
+  ],
+  "alwaysUpdateLinks": true
+}

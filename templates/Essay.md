@@ -1,6 +1,5 @@
 ---
 type: essay
-area: []
 lang:
 tags: []
 stage: 🌱

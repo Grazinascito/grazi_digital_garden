@@ -1,6 +1,5 @@
 ---
-type: technical
-area: []
+type: how to
 lang:
 tags: []
 stage: 🌱
