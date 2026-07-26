@@ -3,7 +3,7 @@ type: essay
 lang:
 tags: []
 stage: 🌱
-created: {{date}}
+published: {{date}}
 publish: false
 ---
 

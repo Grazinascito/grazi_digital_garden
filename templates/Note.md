@@ -3,7 +3,7 @@ type: note
 lang:
 tags: []
 stage: 🌱
-created: {{date}}
+published: {{date}}
 publish: false
 ---
 

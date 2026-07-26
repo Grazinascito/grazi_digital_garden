@@ -1,6 +1,7 @@
 ---
 type: moc
 tags: []
+published: {{date}}
 publish: false
 ---
 
