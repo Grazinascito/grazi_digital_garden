@@ -1,5 +1,5 @@
 {
-  "folder": "content/studylogs",
+  "folder": "content/daily-notes",
   "format": "YYYY-MM-DD",
-  "template": "templates/Studylog"
+  "template": "templates/DailyNote"
 }

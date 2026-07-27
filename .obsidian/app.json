@@ -19,5 +19,7 @@
     "LICENSE",
     "README"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/notes"
 }

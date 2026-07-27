@@ -1,7 +1,7 @@
 ---
 type: essay
 date: {{date}}
-stage: seed
+status: draft
 lang:
 tags: []
 publish: false

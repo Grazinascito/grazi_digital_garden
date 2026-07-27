@@ -1,20 +1,26 @@
 ---
-type: studylog
-study_day:
 date: {{date}}
+tags: [studylog]
 lang:
-tags: []
-stage: seed
-publish: false
+status: draft
+publish: true
 ---
 
-# <!-- synthesis title: what you studied today, in your own words -->
+# <!-- síntese: o que estudou hoje, com suas palavras -->
 
-## What I explored today
+> Refinado do [[daily-notes/{{date}}|daily note]] — só a sessão de estudo, não a captura privada.
 
-## What became clear
+## Study log
 
-## What I still don't understand
+**⏱️ Minutos de foco:** 
+**🎯 Foquei ou me distraí?** 
 
-## Ideas that might become their own note
+<!-- O que estudei, com minhas palavras. -->
 
+## Erros do dia
+
+<!-- Questão errada → conceito → mini-teoria com minhas palavras. -->
+
+## Temas em potencial
+
+<!-- Ideias que podem virar note, essay ou how to. -->

@@ -10,6 +10,7 @@ configuration:
   baseUrl: localhost
   ignorePatterns:
     - private
+    - daily-notes
     - templates
     - .obsidian
   theme:
@@ -254,11 +255,11 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - type
         - date
-        - stage
-        - lang
+        - status
         - tags
+        - type
+        - lang
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---

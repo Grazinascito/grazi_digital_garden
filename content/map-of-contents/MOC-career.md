@@ -27,7 +27,7 @@ Skills, projetos e estudos traduzidos em impacto profissional.
 
 ## Related MOCs
 
-- [[MOC-about-me]] — contexto pessoal e direção
+- [[MOC-about]] — contexto pessoal e direção
 - [[MOC-computacao]] — fundamentos técnicos aplicados à carreira
 - [[MOC-software-engineering]] — competências técnicas e prática de engenharia
 - [[MOC-ui-ux-design]] — design como diferencial profissional

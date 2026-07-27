@@ -1,7 +1,7 @@
 ---
 type: note
 date: {{date}}
-stage: seed
+status: draft
 lang:
 tags: []
 publish: false

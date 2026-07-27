@@ -9,7 +9,7 @@ publish: true
 
 Meta-notes that link ideas by subtheme. Each map includes commented links — not bare indexes.
 
-- [[MOC-about-me|Sobre mim]]
+- [[MOC-]]
 - [[MOC-computacao|Computação]]
 - [[MOC-career|Carreira]]
 - [[MOC-software-engineering|Engenharia de Software]]
