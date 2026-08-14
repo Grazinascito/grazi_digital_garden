@@ -18,9 +18,3 @@ Algoritmos, estruturas de dados, complexidade, modelos de computação.
 ## Sistemas & arquitetura
 
 Como máquinas, redes e sistemas operacionais funcionam por baixo.
-
-## Related MOCs
-
-- [[MOC-software-engineering]] — da teoria à prática em produção
-- [[MOC-ui-ux-design]] — computação aplicada à experiência do usuário
-- [[MOC-career]] — aprendizado traduzido em mercado

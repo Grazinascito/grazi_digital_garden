@@ -1,0 +1,1 @@
+Adicionar configurações de ambiente dentro de uma aplicação como constantes é um erro grave que viola o twelve factor 

@@ -23,8 +23,3 @@ Tipografia, layout, componentes, consistência visual.
 
 Como pessoas de fato leem, navegam e decidem — conexão com psicologia cognitiva.
 
-## Related MOCs
-
-- [[MOC-software-engineering]] — implementação e trade-offs técnicos
-- [[MOC-computacao]] — fundamentos que sustentam decisões de design
-- [[MOC-cognitive-psychology]] — atenção, carga cognitiva, heurísticas
